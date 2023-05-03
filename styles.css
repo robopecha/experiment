@@ -15,7 +15,7 @@ body {
   width: 100%;
   margin: 0 auto;
   gap: 16px;
-  background-color: #4d0f00;
+  background-color: black;
   overflow: hidden;
   filter: blur(1px);
 }
@@ -23,8 +23,8 @@ body {
 .one {
   width: 220px;
   height: 110px;
-  background-color: #efb762;
-  box-shadow: 0 0 3px 3px #efb762;
+  background-color: #ede205;
+  box-shadow: 0 0 3px 3px #ede205;
   border-radius: 9px;
   transform: rotate(-0.6deg);
 }
@@ -32,8 +32,8 @@ body {
 .two {
   width: 210px;
   height: 120px;
-  background-color: #8f0401;
-  box-shadow: 0 0 3px 3px #8f0401;
+  background-color: rgb(0, 60, 255);
+  box-shadow: 0 0 3px 3px rgb(0, 60, 255);
   border-radius: 8px 10px;
   transform: rotate(0.4deg);
 }
@@ -41,9 +41,9 @@ body {
 .three {
   width: 230px;
   height: 130px;
-  background-color: #b20403;
+  background-color: #f40d0d;
   filter: blur(1px);
-  box-shadow: 0 0 5px 5px #b20403;
+  box-shadow: 0 0 5px 5px #f40d0d;
   border-radius: 30px 25px 60px 12px;
   transform: rotate(-0.2deg);
 }
