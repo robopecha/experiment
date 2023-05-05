@@ -90,6 +90,6 @@ body {
   outline-width: 5px;
 }
 
-.canvas div:hover {
+/* .canvas div:hover {
   transform: rotate(90deg);
-}
+} */
